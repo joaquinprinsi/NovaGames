@@ -5,7 +5,7 @@ const { loadEvents } = require("./Handlers/eventHandler");
 const { loadButtons } = require("./Handlers/buttonHandler");
 const { SlashCommandBuilder, SlashCommandSubcommandBuilder, SlashCommandStringOption } = require('@discordjs/builders');
 
-
+//a
 
 
 // Integración del primer código (adaptado a Discord.js)
